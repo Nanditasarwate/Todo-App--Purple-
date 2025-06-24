@@ -254,6 +254,22 @@ body {
     background-color: #ff6f91;
 }
 
+/* Footer Styles */
+.footer {
+  position: fixed;
+  bottom: 10px;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  font-size: 1rem;
+  color: white;
+  font-family: sans-serif;
+}
+
+.footer .heart {
+  color: #c084fc;
+}
+
 
 @media (max-width: 600px) {
   .container {
